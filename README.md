@@ -1,7 +1,4 @@
-# LIGHTBULB ROBOT
-
-
-## VV035 HW06 ROBOT
+# LIGHTBULB ROBOT in Blender
 
 3D model of a robot that imitates spiders but
 with a light-bulb as a body filled with smoke
